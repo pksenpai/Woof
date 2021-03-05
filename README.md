@@ -1,7 +1,7 @@
 # Woof
 fellowship challenge
 
-#### Pretrained ResNet 34 and train on the Imagewoof dataset. Used image transforms and discriminative learning rates
+#### Pretrained ResNet 34 and trained on the Imagewoof dataset. Used image transforms and discriminative learning rates
 
 ### Woof notebook:
 
